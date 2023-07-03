@@ -55,11 +55,11 @@ The project evaluates the performance of the models using various metrics such a
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 # Fork the repository
-Create a new branch: git checkout -b my-feature
-Make your changes and commit them: git commit -m 'Add new feature'
-Push to the branch: git push origin my-feature
+Create a new branch: git checkout -b new-feature
+Make your changes and commit them: git commit -m 'Added new feature'
+Push to the branch: git push origin new-feature
 Submit a pull request
 License
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License (GPL).
 
 Feel free to customize the README file according to your project's specific details and requirements.
