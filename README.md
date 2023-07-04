@@ -48,9 +48,6 @@ These laboratory markers are commonly measured to assess liver function, diagnos
 Models
 The project applies machine learning models, including Logistic Regression, Decision Trees, and Random Forest, to predict Hepatitis C outcomes.
 
-##  Evaluation
-The project evaluates the performance of the models using various metrics such as accuracy, precision, recall, and F1-score.
-
 ##  Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
